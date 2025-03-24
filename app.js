@@ -3,3 +3,4 @@ const sayHello = () => {
 }
 
 const addNumbers = (a, b) => { return a + b; }
+const sayBye = () => { console.log("bye") }
