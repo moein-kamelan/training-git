@@ -8,3 +8,4 @@ const sayBye = () => { console.log("bye") }
 const newCode = "newCode in feature branch"
 
 const myName = "moein"
+const helloVar = "hello"
